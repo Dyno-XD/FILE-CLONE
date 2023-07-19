@@ -1,12 +1,12 @@
 # This Tool Created By The Developer💪🏼☠️
 
-rm -rf GREEN-FIRE
+rm -rf FILE-CLONE
 
-git clone https://github.com/MUMIT-404-CYBER/GREEN-FIRE.git
+git clone https://github.com/Dyno-XD/FILE-CLONE
 
-cd GREEN-FIRE
+cd FILE-CLONE
 
-python fire.py
+python FileCloning.py
 
 # Do Not Try To Decrypt It Bro😝
 
