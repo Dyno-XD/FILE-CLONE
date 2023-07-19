@@ -1,4 +1,4 @@
 import os, sys
 print(" Update Chaking...")
 os.system(" git pull")
-import DynoXD
+import DynoXD_enc
